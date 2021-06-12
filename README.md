@@ -16,3 +16,20 @@ Odsyłam zadanie po 4h w stanie jaki udało mi się w tym czasie osiągnąć. Li
 - pisząc na szybko - całą logikę obsługi listy zrobiłem w User.js, nie wystarczyło mi czasu na poprawne rozdzielenie tego na komponent UserList oraz elementu listy / User.
 
 ### Jak zainstalować
+
+    1. Open your terminal and then type
+
+       Github: $ git clone https://github.com/bysiuxvx/teacode-challenge-pb.git
+
+       Gitlab: $ git clone https://gitlab.com/bysiuxvx/teacode-challenge-pb.git
+
+       This clones the repo
+
+    2. cd into the new folder and type
+
+        $ npm install
+
+        This installs the required dependencies
+
+    3. To run the React project.
+        $ npm start
