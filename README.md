@@ -1,7 +1,7 @@
 ## Update:
 
-- Kod oryginalny = master
-- poprawnie rozdzielone komponenty UserList i User = compFix
+- Kod oryginalny = main branch
+- poprawnie rozdzielone komponenty UserList i User = compFix branch
 - [Live zadania](https://bysiuxvx.github.io/teacode-challenge-pb)
 
 ## Zadanie domowe dla TeaCode
