@@ -1,3 +1,6 @@
+Kod oryginalny = master
+rozdzielone komponenty UserList i User = compFix
+
 ## Zadanie domowe dla TeaCode
 
 Odsyłam zadanie po 4h w stanie jaki udało mi się w tym czasie osiągnąć. Lista jest posortowana alfabetycznie po nazwisku, działa search imię / nazwisko. Problem z checkboxem opisany niżej.
@@ -19,9 +22,9 @@ Odsyłam zadanie po 4h w stanie jaki udało mi się w tym czasie osiągnąć. Li
 
     1. Open your terminal and then type
 
-       Github: $ git clone https://github.com/bysiuxvx/teacode-challenge-pb.git
+       Github: git clone https://github.com/bysiuxvx/teacode-challenge-pb.git
 
-       Gitlab: $ git clone https://gitlab.com/bysiuxvx/teacode-challenge-pb.git
+       Gitlab: git clone https://gitlab.com/bysiuxvx/teacode-challenge-pb.git
 
        This clones the repo
 
