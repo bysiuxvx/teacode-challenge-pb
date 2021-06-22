@@ -2,7 +2,7 @@
 
 - Kod oryginalny = master
 - poprawnie rozdzielone komponenty UserList i User = compFix
-- [Live zadania](https://portfolio-pb.herokuapp.com/#/)
+- [Live zadania](https://bysiuxvx.github.io/teacode-challenge-pb)
 
 ## Zadanie domowe dla TeaCode
 
