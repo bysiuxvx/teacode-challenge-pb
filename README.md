@@ -1,5 +1,8 @@
-Kod oryginalny = master
-rozdzielone komponenty UserList i User = compFix
+## Update:
+
+- Kod oryginalny = master
+- poprawnie rozdzielone komponenty UserList i User = compFix
+- [Live zadania](https://portfolio-pb.herokuapp.com/#/)
 
 ## Zadanie domowe dla TeaCode
 
